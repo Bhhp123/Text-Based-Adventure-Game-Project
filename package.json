@@ -1,6 +1,6 @@
 {
-  "name": "@bilawalhussain/text-based-adventure-game",
-  "version": "1.0.1",
+  "name": "@bilawalhussain/text-based-adventure-game-project",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
